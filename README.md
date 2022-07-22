@@ -379,8 +379,10 @@ def search(request):
     else:
         return render(request, 'Marvel/search.html')
 ```
-![Home]
-(/images/home.png)
+![Home](/images/home.png)
+![Roster](/images/Roster.png)
+![API](/images/API.png)
+![Details](/images/Details.png)
 
 Conclusion:<br>
 Throughout this project i gained a much greater understanding of Django and the use of Azure DevOps and Agile/Scrum. Delveloped skills on how to work with a dev team and use version control.
