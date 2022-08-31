@@ -3,7 +3,7 @@
 Python Live Project
 
 Introduction:<br>
-A two week sprint where we used Python with the Django Framework to develop websites. We Used Agile Methodolgies and daily Scrums. I learned how to work with a team of developers and how to utilize version control by branching and making pull requests with master.I learned front end and back end development and also how to render API data to my templates.
+A two week sprint where we used Python with the Django Framework to develop websites. We Used Agile Methodologies and daily Scrums. I learned how to work with a team of developers and how to utilize version control by branching and making pull requests with master.I learned front end and back end development and also how to render API data to my templates.
 
 CRUD Functionality:<br>
 Started the project with the basics,Create,Read,Update,and Delete.
